@@ -3,6 +3,7 @@
 function calculateTotalPrice(){
     //calculate total price using for loop
     //display total price
+    
 }
 calculateTotalPrice()
 
